@@ -57,7 +57,7 @@ The installation script is created to install not only dotfiles, it will install
 - Vscode: SUPER + C
 - Telegram: SUPER + T
 
-## Resourceshttps://hyprpanel.com/getting_started/hyprpanel.html
+## Resources
 
 - [Hyprland Wiki](https://wiki.hyprland.org/)
 - [HyprPanel Wiki](https://hyprpanel.com/getting_started/hyprpanel.html)
