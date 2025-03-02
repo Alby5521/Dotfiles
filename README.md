@@ -1,4 +1,4 @@
-# Hyprland Dotfiles Personal
+# Hyprland Dotfiles
 
 In this repository, you can find all the configuration files and the bash installer that I use for my Arch Linux installation.
 
