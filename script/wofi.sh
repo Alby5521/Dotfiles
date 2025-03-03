@@ -21,7 +21,7 @@ if [ -e ~/.config/wofi ] || [ -L ~/.config/wofi ]; then
 fi
 
 # Symlink creation
-ln -s ~/Hyprland_Dotfiles_Personal/dotfiles/wofi ~/.config/wofi
+ln -s ~/Dotfiles/dotfiles/wofi ~/.config/wofi
 
 # Symlink error handling
 if [ -L ~/.config/wofi ]; then

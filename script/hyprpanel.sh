@@ -44,7 +44,7 @@ if [ -e ~/.config/hyprpanel ] || [ -L ~/.config/hyprpanel ]; then
 fi
 
 # Symlink creation
-ln -s ~/Hyprland_Dotfiles_Personal/dotfiles/hyprpanel ~/.config/hyprpanel
+ln -s ~/Dotfiles/dotfiles/hyprpanel ~/.config/hyprpanel
 
 # Symlink error handling
 if [ -L ~/.config/hyprpanel ]; then

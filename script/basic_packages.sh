@@ -31,8 +31,8 @@ if [ -e ~/.config/kitty ] || [ -L ~/.config/kitty]; then
 fi
 
 # Symlink creation
-ln -s ~/Hyprland_Dotfiles_Personal/dotfiles/hypr ~/.config/hypr
-ln -s ~/Hyprland_Dotfiles_Personal/dotfiles/kitty ~/.config/kitty
+ln -s ~/Dotfiles/dotfiles/hypr ~/.config/hypr
+ln -s ~/Dotfiles/dotfiles/kitty ~/.config/kitty
 
 # Symlink error handling
 if [ -L ~/.config/hypr ]; then
