@@ -32,8 +32,8 @@ if [ $install_start == "y" ]; then
     ./script/basic_packages.sh
     echo " "
     # Paru installation
-    # chmod +x ./script/paru_installation.sh
-    # ./script/paru_installation.sh
+    chmod +x ./script/paru_installation.sh
+    ./script/paru_installation.sh
     echo " "
     # Brave installation
     chmod +x ./script/brave_installation.sh
@@ -46,6 +46,10 @@ if [ $install_start == "y" ]; then
     # Hypr utilities installation
     chmod +x ./script/hypr_utilities.sh
     ./script/hypr_utilities.sh
+    echo " "
+    # Wofi installation
+    chmod +x ./script/wofi.sh
+    ./script/wofi.sh
     echo " "
     # Visual Studio Code installation
     chmod +x ./script/vscode_installation.sh
