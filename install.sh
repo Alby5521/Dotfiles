@@ -32,8 +32,8 @@ if [ $install_start == "y" ]; then
     ./script/basic_packages.sh
     echo " "
     # Paru installation
-    chmod +x ./script/paru_installation.sh
-    ./script/paru_installation.sh
+    # chmod +x ./script/paru_installation.sh
+    # ./script/paru_installation.sh
     echo " "
     # Brave installation
     chmod +x ./script/brave_installation.sh

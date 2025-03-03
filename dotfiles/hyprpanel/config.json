@@ -121,7 +121,7 @@
 			]
 		}
 	},
-	"wallpaper.image": "/home/alberto/Hyprland_Dotfiles_Personal/dotfiles/hyprpanel/wallpaper/Dash_Dart_Black.jpg",
+	"wallpaper.image": "/home/alberto/Dotfiles/dotfiles/hyprpanel/wallpaper/Dash_Dart_Black.jpg",
 	"menus.dashboard.stats.enabled": false,
 	"menus.dashboard.powermenu.avatar.image": "/home/alberto/.config/hyprpanel/avatar/user.png",
 	"theme.bar.menus.text": "#fffefe",
